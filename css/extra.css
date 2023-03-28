@@ -1,0 +1,23 @@
+body::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+body::-webkit-scrollbar-track {
+    background: #93C5FD;
+    border-radius: 20px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #1D4ED8;
+    border-radius: 20px;
+}
+
+.bg_Navbar {
+    background-color: #21327A;
+    transition: background-color 0.5s;
+}
+
+.bg_NavBar_Scroll {
+    background-color: #172255;
+    transition: background-color 0.5s;
+}
